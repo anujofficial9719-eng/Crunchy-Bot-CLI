@@ -7,8 +7,8 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 12345  # Replace with your API ID
-API_HASH = "" # Replace with your API Hash
+API_ID = 28891870  # Replace with your API ID
+API_HASH = "ffc3794690bf254d2867ac58fd293a60" # Replace with your API Hash
 BOT_TOKEN = "" # Replace with your Bot Token
 
 # --- User Management & Limits ---
