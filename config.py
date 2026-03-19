@@ -7,9 +7,9 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 28891870  # Replace with your API ID
-API_HASH = "ffc3794690bf254d2867ac58fd293a60" # Replace with your API Hash
-BOT_TOKEN = "" # Replace with your Bot Token
+API_ID = 34724970  # Replace with your API ID
+API_HASH = "f240eae7c60e8e30c17203ab0e052f7e" # Replace with your API Hash
+BOT_TOKEN = "8740060958:AAH7zdrLp8U_Jg_dzH5DEyqfWRYyw8WNZAY" # Replace with your Bot Token
 
 # --- User Management & Limits ---
 sudo_users = [] # List of sudo user IDs (as integers)
