@@ -12,9 +12,9 @@ API_HASH = "f240eae7c60e8e30c17203ab0e052f7e" # Replace with your API Hash
 BOT_TOKEN = "8740060958:AAH7zdrLp8U_Jg_dzH5DEyqfWRYyw8WNZAY" # Replace with your Bot Token
 
 # --- User Management & Limits ---
-sudo_users = [7521421400] # List of sudo user IDs (as integers)
-premium_users = [7521421400] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [7521421400] # List of authorized user IDs to use bot in private (as integers)
+sudo_users = [7168219724] # List of sudo user IDs (as integers)
+premium_users = [7168219724] # List of premium user IDs (as integers)
+AUTHORIZED_USERS = [7168219724] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 2
